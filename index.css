@@ -1,0 +1,97 @@
+h1{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 2em;
+    color: red;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+h2{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 2em;
+    color: rgb(255, 123, 0);
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+.parrafo1{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 1.2em;
+    color: black;
+    text-align: center;
+}
+
+.parrafo2{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 1.2em;
+    color: rgb(255, 238, 0);
+    text-align: center;
+}
+
+.Instruccion1{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 1.2em;
+    color: rgb(0, 0, 255);
+    text-align: center;
+}
+
+.lista{
+    list-style: none;    
+}
+
+.Instruccion2{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 1.2em;
+    color: rgb(132, 0, 255);
+    text-align: center;
+}
+
+.Instruccion3{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 1.2em;
+    color: rgb(255, 0, 212);
+    text-align: center;
+}
+
+.Instruccion4{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 1.2em;
+    color: rgb(255, 0, 106);
+    text-align: center;
+}
+
+.imagenes1 {
+    padding-left: 550px;
+    margin-top: 20px;
+}
+
+.imagenes2 {
+    padding-left: 320px;
+    margin-top: 20px;
+}
+
+.imagenes3 {
+    padding-left: 120px;
+    margin-top: 20px;
+}
+
+.parrafo3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 0.5em;
+    text-align: center;
+}
+
+.footer {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 0.5em;
+    text-align: center;
+}
+
+
+body {
+    background-image: url('fondo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
